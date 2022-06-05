@@ -1,0 +1,5 @@
+"C:\Programming\AppProg\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Programming/AppProg/CLion 2021.2.2/bin/ninja/win/ninja.exe" -G Ninja -S D:\CODE\C++\Practice\2_sem\chess -B D:\CODE\C++\Practice\2_sem\chess\cmake-build-release
+-- Found SFML 2.5.1 in D:/CODE/C++/Practice/2_sem/chess/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CODE/C++/Practice/2_sem/chess/cmake-build-release
